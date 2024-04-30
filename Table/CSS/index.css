@@ -1,0 +1,22 @@
+.one
+{
+    border: 0.1rem;
+    border-color:khaki;
+    border-style: dotted;
+    border-radius: 1rem;
+
+}
+.one td
+{
+    border: 0.1rem;
+    border-color: chartreuse;
+    border-style: dotted;
+    border-radius: 1rem;
+}
+.one th
+{
+    border: 0.1rem;
+    border-color:hotpink;
+    border-style: dotted;
+    border-radius: 1rem;
+}

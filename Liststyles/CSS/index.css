@@ -1,0 +1,24 @@
+.wrapper
+{
+    background-color: goldenrod;
+}
+.one
+{
+    background-color: greenyellow;
+    width: 20%;
+}
+.two
+{
+    color:maroon;
+    list-style:georgian;
+    list-style-position: inside;
+    
+}
+.two::marker
+{
+    color:lightpink;
+}
+.three
+{
+    color:indigo;
+}

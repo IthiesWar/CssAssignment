@@ -1,0 +1,138 @@
+body
+            {
+                background-color: black;
+                color: bisque;
+            }
+            h1
+            {
+                color: aquamarine;
+                font-family:'Times New Roman', Times, serif;
+            }
+            p
+            {
+                color: burlywood;
+                font-family: 'Courier New', Courier, monospace;
+            }
+            .pixels
+            {
+                font-size: 50px;
+            }
+            .percentage
+            {
+                font-size: 50%;
+            }
+            .normal
+            {
+                font-weight: normal;
+                font-style: italic;
+                text-transform: lowercase;
+            }
+            .Bold
+            {
+                font-weight: bold;
+                font-style: oblique;
+                text-transform: uppercase;
+            }
+            .Captalize
+            {
+                text-transform: capitalize;
+            }
+            .one
+            {
+                text-decoration: none;
+            }
+            .two
+            {
+                
+                text-decoration: underline;
+            }
+            .three
+            {
+                text-decoration: underline;
+                text-decoration: overline;
+            }
+            .four
+            {
+                text-decoration: line-through;
+            }
+            .five
+            {
+                text-decoration:dotted;
+            }
+            .six
+            {
+                line-height: 2rem;
+            }
+            .seven
+            {
+                letter-spacing: 2rem;
+                line-break: anywhere;
+            }
+            .left
+            {
+                text-align: left;
+            }
+            .right
+            {
+                text-align: right;
+            }
+            .center
+            {
+                text-align: center;
+            }
+            .justify
+            {
+                text-align: justify;
+            }
+            .eight
+            {
+                vertical-align: top;
+            }
+            .nine
+            {
+                word-spacing: 1rem;
+            }
+            .ten::first-letter
+            {
+                color: brown;
+            }
+            .eleven :link
+            {
+                color: darkred;
+            }
+            .eleven :visited
+            {
+                color: gainsboro;
+            }
+            .eleven :hover
+            {
+                color: khaki;
+            }
+            .eleven :focus
+            {
+                color: lightcoral;
+            }
+            .eleven :active
+            {
+                color: grey;
+            }
+            .twelve:hover
+            {
+                color:greenyellow;
+            }
+            .thirteen
+            {
+                text-shadow: 0.5rem 0 0 red;
+            }
+            .fourteen
+            {
+                text-shadow: -0.5rem 0 0 red;
+            }
+            .fivteen
+            {
+                text-shadow: 0 -0.5rem 0 red;
+            }
+            .sixteen
+            {
+                text-shadow: 0 0.5rem 0 red;
+            }

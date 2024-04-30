@@ -1,0 +1,15 @@
+body
+{
+    background-image: url(../image/cricketimage1.jpg);
+  /*  background-repeat: repeat-x;*/
+  background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment:fixed;
+    background-color: cadetblue;
+}
+.one
+{
+    margin-left: 25%;
+    min-height: 1200%;
+    position: fixed;
+}

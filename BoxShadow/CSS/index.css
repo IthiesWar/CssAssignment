@@ -1,0 +1,59 @@
+.wrapper
+{
+    text-align: center;
+    margin-left: 30%;
+    
+}
+.left
+{
+    border:0.1rem;
+    border-width: 0.2rem;
+    border-color: red;
+    border-style: dashed;
+    width: 40%;
+    box-shadow: 0.5rem 0.5rem 0 yellow;
+    border-radius: 1rem;
+    
+}
+.bottomright
+{
+    margin-top: 1rem;
+    border:0.1rem;
+    border-width: 0.2rem;
+    border-color: red;
+    border-style: dashed;
+    width: 40%;
+    border-radius: 1rem;
+   
+}
+.bottomrightspread
+{
+    margin-top: 1rem;
+    border:0.1rem;
+    border-width: 0.2rem;
+    border-color: red;
+    border-style: dashed;
+    width: 40%;
+    box-shadow: -0.5rem -0.5rem 0 yellow;
+    border-radius: 1rem;
+}
+.outerspread
+{
+    margin-top: 1rem;
+    border:0.1rem;
+    border-width: 0.2rem;
+    border-color: red;
+    border-style: dashed;
+    width: 40%;
+    border-radius: 1rem;
+}
+.inset
+{
+    margin-top: 1rem;
+    border:0.1rem;
+    border-width: 0.2rem;
+    border-color: red;
+    border-style: dashed;
+    width: 40%;
+    border-radius: 1rem;
+}

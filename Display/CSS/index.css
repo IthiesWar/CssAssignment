@@ -1,0 +1,51 @@
+
+/*.wrapper
+{
+   background-color: goldenrod;
+   
+  
+}
+.one
+{
+   margin-left: 50%;
+}
+.one .two
+{
+   display: inline-block; 
+   list-style: none;
+   padding-top: 2rem;
+   padding-left: 2rem;
+   width: 5rem;
+   line-height: 2rem;
+}
+.one .three
+{
+   text-decoration: none;
+}
+.two .three:hover
+{
+    font-size: 50%;
+}*/
+.wrapper
+{
+   background-color: goldenrod;
+}
+.one
+{
+   margin-top: 50vh;
+   display: flex;
+   list-style: none;
+   justify-content:center;
+  align-items: center;
+   flex-direction: column;
+   
+}
+.two
+{
+   padding: 0.5rem;
+   
+}
+.three
+{
+   text-decoration: none;
+}

@@ -1,0 +1,16 @@
+body
+{
+   width: 100%;
+   height: 100%;
+   background-color: cyan;
+}
+.wrapper
+{
+   width: 100%;
+   min-width: 50%;
+   max-width: 200%;
+   background-color
+   :crimson;
+   min-height: 90%;
+  /* max-height: 150%;*/
+}

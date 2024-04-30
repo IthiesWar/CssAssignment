@@ -1,0 +1,25 @@
+.wrapper
+{
+    border: 1rem;
+    border-width: 0.1rem;
+    border-style: dashed;
+    border-color: red;
+    width: 50%;
+}
+.wrapper .one
+{
+    color:chartreuse;
+    border: 1rem;
+    border-width: 0.1rem;
+    border-style: dashed;
+    border-color:darkolivegreen;
+    max-width: 100%;
+    padding-left: 0.5rem;
+    padding: 0.5rem;
+}
+.wrapper .two
+{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding: 0.5rem;
+}

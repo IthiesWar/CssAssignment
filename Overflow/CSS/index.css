@@ -1,0 +1,8 @@
+.wrapper
+{
+   /* width: 90%;*/
+    min-height: 200%;
+    background-color: rgb(57, 55, 39);
+   /* max-height: 1200%;*/
+    overflow: scroll;
+}
