@@ -1,0 +1,36 @@
+.wrapper
+{
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: black;
+    border-style: solid;
+}
+.Syncfusion
+{
+    margin-right: 20%;
+    align-content: center;
+}
+.Syncfusion img
+{
+    width: 20px;
+}
+.ul
+{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0.2rem;
+    list-style: none;
+    background-color: black;
+    color: aliceblue;
+    flex-wrap: wrap;
+}
+.ul div
+{
+   padding: 1rem;
+   align-content: center;
+}
+.ul a
+{
+    text-decoration: none;
+    color: white;
+}

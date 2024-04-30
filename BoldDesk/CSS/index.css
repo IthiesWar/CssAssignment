@@ -1,0 +1,340 @@
+* {
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(31, 31, 70);
+    
+}
+
+/* nav container */
+.navcontainer {
+    background-color: white;
+    min-height: 300px;
+    
+}
+
+.list1 {
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    justify-content: flex-start;
+
+}
+
+.list1 li {
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.list1 li a {
+
+    text-decoration: none;
+    color: rgb(31, 31, 70);
+}
+
+.list1 li img {
+    display: flex;
+    width: 100px;
+    height: 56px;
+}
+
+.list1 .insidelist1 {
+    display: flex;
+    margin-top: 16px;
+    padding-left: 250px;
+
+}
+
+.list1 .insidelist2 {
+    display: flex;
+    margin-top: 16px;
+    margin-left: 200px;
+}
+
+.getintouch {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+}
+
+.getintouch .touch {
+    margin-top: 40px;
+    color: rgb(31, 31, 70);
+    font-size: 58px;
+    
+}
+
+.getintouch .contact {
+    margin-top: 20px;
+    color: rgb(31, 31, 70);
+    font-size: 20px;
+}
+
+.getintouch .bolddesk {
+    color: rgb(31, 31, 70);
+    font-size: 20px;
+}
+
+.book {
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: red;
+    border-style: solid;
+    display: flex;
+    border-radius: 5%;
+    padding: 5px;
+}
+
+.list1 .insidelist2 .book {
+    color: red;
+}
+
+.free {
+    display: flex;
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: red;
+    background-color: red;
+    border-style: solid;
+    text-align: center;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+/*container1*/
+/* box1 */
+.container1 {
+    background-color: rgba(201, 217, 245, 0.758);
+    min-height: 600px;
+    padding: 20px;
+    margin-top: 80px;
+    display: flex;
+}
+
+.sub1 {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.sub1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.sub1 li img {
+    padding-top: 20px;
+    width: 60px;
+    height: 30px;
+    vertical-align: bottom;
+}
+
+.sub1 li {
+    padding: 5px;
+}
+
+.sub2 {
+    padding-left: 80px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.sale {
+    font-size: 25px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.box1 {
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: white;
+    border-style: solid;
+    border-radius: 4%;
+    width: 80%;
+    height: 26%;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0.5rem 0.5rem 0 rgba(248, 245, 245, 0.445);
+}
+
+/*box 2*/
+.box2 {
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: white;
+    border-style: solid;
+    border-radius: 4%;
+    width: 80%;
+    height: 22%;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0.5rem 0.5rem 0 rgba(248, 245, 245, 0.445);
+}
+.contactsupport
+{
+    color: red;
+}
+.box2 .sub1 {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.tech {
+    font-size: 25px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.box2 .sub1 li img {
+    padding-top: 20px;
+    width: 60px;
+    height: 30px;
+    vertical-align: bottom;
+}
+
+.box2 .sub2 {
+    padding-left: 80px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+/* box 3 */
+.box3 {
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: white;
+    border-style: solid;
+    border-radius: 4%;
+    width: 80%;
+    height: 22%;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0.5rem 0.5rem 0 rgba(248, 245, 245, 0.445);
+
+}
+
+.box3 .sub2 {
+    padding-left: 80px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+
+}
+
+.box3 .sub1 li img {
+    padding-top: 20px;
+    width: 60px;
+    height: 30px;
+    vertical-align: bottom;
+}
+
+.chat {
+    font-size: 25px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.box3 .sub1 {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+.conversation
+{
+    color: red;
+}
+/* box 4 */
+.box4 {
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: white;
+    border-style: solid;
+    border-radius: 4%;
+    width: 80%;
+    height: 80%;
+    padding: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0.5rem 0.5rem 0 rgba(248, 245, 245, 0.445);
+    justify-content: center;
+    overflow: scroll;
+}
+
+.box4 .sub1 {
+
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+.box4 .sub1 li
+{
+    padding: 10px;
+}
+.box4 .sub1 li label {
+    color: rgba(128, 128, 128, 0.696);
+}
+
+.box4 .sub1 .send {
+
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.box4 .button {
+    width: 250px;
+    color: white;
+    height: 40px;
+    background-color: red;
+    border: none;
+}
+
+.box4 .star {
+    color: red;
+}
+
+.privacy {
+    color: rgb(28, 122, 229);
+}
+
+.subcontainer2 {
+    padding-left: 90px;
+}
+
+.captcha {
+    border: 0.1rem;
+    border-width: 0.1rem;
+    border-color: rgb(241, 237, 237);
+    border-style: solid;
+    padding: 20px;
+    align-content: center;
+    width: 180px;
+    height: 20px;
+}
+
+.textarea {
+    width: 300px;
+    height: 60px;
+}
+
+.robot {
+    font-size: 20px;
+}
+
+.check {
+    width: 20px;
+}

@@ -1,0 +1,248 @@
+.container1
+{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.container2
+{
+    margin-top: 0.5rem;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.container3
+{
+    margin-top: 0.5rem;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.container4
+{
+    margin-right: 53%;
+    margin-top: 0.5rem;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.container5
+{
+    margin-top: 0.5rem;
+    margin-left: 8%;
+    display:flex;
+    flex-wrap: wrap;
+
+}
+/*container 1*/
+.container1 .red
+{
+    color:white;
+    background-color: red;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container1 .blue
+{
+    color:white;
+    background-color: rgb(21, 118, 230);
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container1 .green
+{
+    color:white;
+    background-color: green;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container1 .yellow
+{
+    color:white;
+    background-color: yellow;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container1 .black
+{
+    color:white;
+    background-color: black;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container1 .grey
+{
+    color:white;
+    background-color:grey;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+/*container 2*/
+.container2 .red
+{
+    color:white;
+    background-color: red;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container2 .blue
+{
+    color:white;
+    background-color: rgb(21, 118, 230);
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container2 .green
+{
+    color:white;
+    background-color: green;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container2 .yellow
+{
+    color:white;
+    background-color: yellow;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container2 .black
+{
+    color:white;
+    background-color: black;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container2 .grey
+{
+    color:white;
+    background-color:grey;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+/* container 3*/
+.container3 .box1
+{
+    color:black;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+}
+.container3 .box2
+{
+    color:black;
+    border-radius: 10%;
+    border: none;
+    background-color: gray;
+    height: 2rem;
+    width: 5rem;
+}
+.container3 .box3
+{
+    color:black;
+    border:0.1rem;
+    border-style: solid;
+    border-color: rgb(85, 85, 220);
+    height: 2rem;
+    width: 5rem;
+}
+.container3 .box4
+{
+    color:black;
+    border-radius: 10%;
+    border: 0.1em;
+    border-color: red;
+    border-style: solid;
+    height: 2rem;
+    width: 5rem;
+}
+.container3 .box5
+{
+    color:black;
+    border-radius: 10%;
+    border: 0.1em;
+    border-color: red;
+    border-style: solid;
+    background-color: red;
+    height: 2rem;
+    width: 6rem;
+}
+.container3 .box6
+{
+    color:white;
+    border-radius: 10%;
+    border: 0.1em;
+    border-style: solid;
+    background-color:black;
+    height: 2.5rem;
+    width: 6rem;
+}
+/* container 4*/
+.container4 .box1
+{
+    color:white;
+    border-radius: 70%;
+    border: 0.1em;
+    border-style: solid;
+    background-color:black;
+    height: 2rem;
+    width: 3rem;
+}
+.container4 .box2
+{
+    color:white;
+    border-radius: 70%;
+    border: 0.1em;
+    border-style: solid;
+    background-color:aquamarine;
+    height: 2rem;
+    width: 3rem;
+}
+.container4 .box3
+{
+    color:white;
+    border-radius: 70%;
+    border: 0.1em;
+    border-style: solid;
+    background-color:gray;
+    height: 2rem;
+    width: 3rem;
+}
+/*container5*/
+.container5 .box1
+{
+    color:white;
+    border: none;
+    background-color:black;
+    height: 2rem;
+    width: 5rem;
+}
+.container5 .box2
+{
+    color:white;
+    border: none;
+    background-color:aquamarine;
+    height: 2rem;
+    width: 5rem;
+}
+.container5 .box3
+{
+    color:white;
+    border: none;
+    background-color:gray;
+    height: 2rem;
+    width: 5rem;
+}

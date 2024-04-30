@@ -1,0 +1,141 @@
+body
+{
+background-color: gray;
+
+}
+.one
+{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 20vh;
+    flex-wrap: wrap;
+    
+}
+.container1
+{
+    background-color: rgb(130, 72, 72);
+    min-width: 20rem;
+    min-height: 20rem;
+    padding:3rem;
+    color: white;
+}
+.container2
+{
+    background-color:whitesmoke;
+    min-width: 20rem;
+    min-height: 20rem;
+    padding: 3rem;
+}
+/*container1 */
+.Syncfusion
+{
+    font-size:1.5rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+}
+.Syncfusion img
+{
+    vertical-align: middle;
+    width: 20px;
+    display: flex;
+    padding-bottom: 4px;
+}
+.Hello
+{
+    font-size:2rem;
+    font-family:'Times New Roman', Times, serif;
+}
+.Google
+{
+    width: 15rem;
+    height: 1.5rem;
+    padding: 1px;
+    justify-content: flex-start;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    display: flex;
+   
+}
+.Facebook
+{
+    width: 15rem;
+    height: 1.5rem;
+    padding: 1px;
+    justify-content:flex-start;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(29, 90, 220);
+    display: flex;
+}
+.Twitter
+{
+    width: 15rem;
+    height: 1.5rem;
+    padding: 1px;
+    justify-content:flex-start;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(57, 155, 204);
+    display: flex;
+}
+/* container 2 */
+.Login
+{
+    font-size:1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+}
+.warning
+{
+    font-size:1rem;
+    font-size: 1rem;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(216, 95, 95);
+    word-spacing: 0.2rem;
+}
+.warning span
+{
+    color: rgb(37, 147, 225);
+}
+.Username
+{
+    margin-top: 0.5rem;
+    min-width: 15rem;
+    min-height: 1.5rem;
+    padding: 2px;
+}
+.Password
+{
+    margin-top: 0.5rem;
+    min-width: 15rem;
+    min-height: 1.5rem;
+    padding: 2px;
+    
+}
+.Remind
+{
+    margin-top: 0.5rem;
+    font-size: 1rem;
+}
+.Login2
+{
+    margin-top: 0.5rem;
+    display: flex;
+    color: white;
+    width: 19%;
+    background-color: red;
+    justify-content: center;
+    padding: 0.5rem;
+    border: none;
+}
+.forgot
+{
+    text-decoration: none;
+}
+
+.forgot
+{
+    color: red;
+}
